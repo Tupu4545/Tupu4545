@@ -8,7 +8,7 @@ I am Tupu AKA Tupu4545, I am a javascript developer. I also own a cool Discord S
 - 🚂 Join my discord server [here](https://discord.gg/5NCV9Qpzhy)
 # 📱My Socials
 
-<a href="https://discord.gg/5NCV9Qpzhy">
+<a href="https://dsc.gg/tupu">
   <img align="left" alt="Tupu4545 | Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg">
 </a>
 <a href="https://www.twitch.tv/tupu4545">
