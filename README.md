@@ -5,7 +5,7 @@ I am Tupu AKA Tupu4545, I am a javascript developer. I also own a cool Discord S
 - ✍ Currently Working on [MoonBot](https://discord.com/oauth2/authorize?client_id=775998744562630657&permissions=8&scope=bot).
 - 🧠 My other project [LuckyOP](https://discord.com/oauth2/authorize?client_id=769250175855755295&permissions=8&scope=bot)
 - 💬 Ask me about anything [here](https://github.com/Tupu4545/Tupu4545/issues).
-- 🚂 Join my discord server [here](https://discord.gg/5NCV9Qpzhy)
+- 🚂 Join my discord server [here](https://dsc.gg/tupu)
 # 📱My Socials
 
 <a href="https://dsc.gg/tupu">
